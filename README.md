@@ -1,6 +1,6 @@
 # chamelo
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1077075/screenshots/6845849/chameleo-1.png" alt="CHAMELO!"/>
+  <img src="https://cdn.dribbble.com/users/1077075/screenshots/15587831/media/1930bc2e9d19b38a74a89207331788eb.gif" alt="CHAMELO!"/>
   <h1 align="center"/>CHAMELO!</h1>
 </p>
 
