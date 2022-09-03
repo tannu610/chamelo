@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/65999534/185781579-e4aba769-4030-4451-a4cd-c3f8b040a9b9.png" alt="CHAMELO!"/>
+  <img src="https://user-images.githubusercontent.com/tannu610/Chamelo.png" alt="CHAMELO!"/>
   <h1 align="center"/>CHAMELO!</h1>
 </p>
 
