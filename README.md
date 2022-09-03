@@ -1,6 +1,6 @@
 # chamelo
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/tannu610/Chamelo.png" alt="CHAMELO!"/>
+  <img src="https://cdn.dribbble.com/users/1077075/screenshots/6845849/chameleo-1.png" alt="CHAMELO!"/>
   <h1 align="center"/>CHAMELO!</h1>
 </p>
 
