@@ -35,7 +35,7 @@ Permissions include tabs and active tabs which helps to manipulate the styles of
 
 ## Screen Shots
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/65999534/185781708-674819ae-8ee7-4d97-b8a7-9c7a0721" alt="Chamelo Screen"/>
+  <img src="https://raw.githubusercontent.com/tannu610/chamelo/main/chamelo-main/chamelo-ex-SS.png" alt="Chamelo Screen"/>
 </p>
 
 ![image](https://user-images.githubusercontent.com/65999534/185781763-af709c69-0a06-4918-a978-96f9248b58f1.png)
