@@ -34,7 +34,7 @@ Permissions include tabs and active tabs which helps to manipulate the styles of
 
 
 ## Screen Shots
- Pop-up interface of the Chamelo! extension.**
+ Pop-up interface of the Chamelo! extension.
 <p align="center">
   <img src="https://raw.githubusercontent.com/tannu610/chamelo/main/chamelo-main/chamelo-ex-SS.png" alt="Chamelo Screen"/>
 </p>
